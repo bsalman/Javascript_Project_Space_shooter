@@ -1,0 +1,12 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.container>canvas{
+    position: absolute;
+    width: 1200px;
+    height: 600px;
+    background-image: url('../img/thumb-1920-193.jpg');
+    background-size: cover;
+
+}
