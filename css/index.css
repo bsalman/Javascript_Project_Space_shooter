@@ -2,11 +2,31 @@
     margin: 0;
     padding: 0;
 }
-.container>canvas{
+.container{
+  position: relative;
+  
+}
+.container>canvas:nth-child(1){
     position: absolute;
-    width: 1200px;
-    height: 600px;
-    background-image: url('../img/thumb-1920-193.jpg');
-    background-size: cover;
+    top: 0;
+    left: 0;
+    z-index: 0;
+    /* width: 100vw;
+    height: 100vh; */
+    background-image: url('../img/space.jpg');
+  background-size: cover;
 
+}
+/* .container>canvas:nth-child(2){
+  position: absolute;
+  top: 0;
+  left: 0;
+
+} */
+
+.spaceShip{
+   
+  width: 30px;
+   
+    
 }
