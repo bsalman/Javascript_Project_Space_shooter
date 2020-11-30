@@ -12,19 +12,12 @@ The hostile fire must be avoided and accommodated.</p>
 <strong>Pure JavaScript/Css</strong>
 
 # Team Description
-<p>1- <a href=""><strong>Bashar</strong></a>:<br/>
-</p>
-<p>2- <a href=""><strong>Abdulrahman</strong></a>:<br/>
-</p>
+<p><a href=""><strong>Bashar</strong></a>:<br/></p>
+
 
 # How to use:
 <p>First: clone the repository.</p>
 <p>Second:Press the start button,and then the game starts. only the mouse is used to control the Plane, and by pressing the right button,the shooting is done <strong>configuration.json</strong></p>
 
 
-# distribution of tasks:
 
-<ul>
- <li>Bashar</li>
- 
-</ul>
