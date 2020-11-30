@@ -25,6 +25,6 @@ The hostile fire must be avoided and accommodated.</p>
 # distribution of tasks:
 
 <ul>
- <li>Bashar 
+ <li>Bashar</li>
  
 </ul>
