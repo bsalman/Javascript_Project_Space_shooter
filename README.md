@@ -3,9 +3,8 @@
 # Space Shooter Game 
 <h3>Site Description</h3>
 <p>This Game is simple space shooter Game</p>
-<p>so that pilot is controlled and fired at hostile spacecraft</p>
-<p>The pilot is controlled and launched to hostile spacecraft.
-The hostile fire must be avoided and accommodated.</p>
+<p>so that pilot is controlled and fired at hostile spacecraft by mouse</p>
+<p>to shoot hostile spacecraft. The hostile fire must be avoided and meteors too.</p>
 
 # Technical Description
 <h3>Platform</h3>
